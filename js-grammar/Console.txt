@@ -1,0 +1,19 @@
+var classes = ['A組', 'B組', 'C組','D組'];
+
+var numbers = [342, 493, 532, 693];
+
+classes[0];  //A組
+
+classes[1];
+
+console.log(classes);
+
+var a = [];
+console.log(a);
+
+console.log(a.length);
+a.push('X');
+console.log(a.length);
+a.push('Y');
+console.log(a);
+console.log(a.length);

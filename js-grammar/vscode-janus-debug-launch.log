@@ -1,0 +1,4 @@
+INFO |00000.052|JanusDebugSession: launchRequest
+ERROR|00000.054|JanusDebugSession: launchRequest failed: no script specified by user
+DEBUG|00000.054|DebugAdapterIPC: connected to VS Code extension
+INFO |00000.055|JanusDebugSession: disconnectRequest
